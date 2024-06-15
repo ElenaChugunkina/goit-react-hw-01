@@ -1,0 +1,15 @@
+.name {
+    color: black;
+}
+
+.colorStatus {
+    color: black;
+}
+
+.isOnline {
+    color: green;
+}
+
+.isOffline {
+    color: red;
+}

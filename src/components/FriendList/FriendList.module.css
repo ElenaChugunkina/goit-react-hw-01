@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    margin-top: 50px;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.listStyle {
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 7px;
+   text-align: center;
+}
